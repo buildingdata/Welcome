@@ -104,7 +104,12 @@
 
 #### 3.代码提交
 
+代码提交前一定要对代码进行审查，避免冲突过多。提交的 commit 信息，使用简短的中文说明即可。
 
+🔍 详情可参考 Github 文档：
+
+- [审查拉取请求中的建议更改](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
+- [管理团队的代码审查设置](https://docs.github.com/cn/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-code-review-settings)
 
 #### 4.仓库的命名
 
