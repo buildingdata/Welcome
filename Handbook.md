@@ -20,6 +20,28 @@
 
 - 一个自己的 Github 账户
 - 一个 XAUAT 的教育邮箱（联系我们开通）
+- 一个小组网盘账号（联系我们开通）
+- 一个 Wiki 知识库账号（可能用 Github 的）
+
+### 🎉 加入数据组
+
+准备好 Github 账户后，就可以联系我们加入数据组 Building Data 了！
+
+#### 1.加入
+
+我们会给你发一封邮件，点击 Github 邮件的链接后，即可加入到我们数据组中。
+
+![join](assets/join-us.png)
+
+#### 2.被关注
+
+我们的管理者会用 [xauatcs](https://github.com/xauatcs) 关注你的 Github 账户，还能帮你涨一个小粉丝呢！如果有需要还可以帮助你点点项目的 ⭐️ Star 。
+
+#### 3.关注数据组的动态
+
+最后别忘了关注一下动态哦：
+
+![follow](assets/follow-us.png)
 
 ### ✉️ 教育邮箱
 

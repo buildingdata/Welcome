@@ -119,6 +119,7 @@
 # 大驼峰命名，这种方式一般适用单个单词、软件和工具开发
 # 例如：
 - Welcome
+- Logo
 - EnergyCalculating
 - PowerToys
 ```
@@ -217,3 +218,4 @@ Github 已经支持深色模式，很多小伙伴们也都很喜欢设置为深�
 ![Light](assets/light.png#gh-light-mode-only)
 ![Dark](assets/dark.png#gh-dark-mode-only)
 ```
+
