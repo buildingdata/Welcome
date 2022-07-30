@@ -38,13 +38,17 @@
 
 #### 1.团队成员
 
+<p align="right">
+	<img width="210px" src="assets/cartoon.png" align="right" alt="cartoon">
+</p>
+
 | 入学年份 | 是否管理 |              Github 账户               |      |
 | :------: | :------: | :------------------------------------: | :--: |
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |      |
 | 2022 级  |    是    | [昊宁](https://github.com/pudding0503) |      |
 | 2023 级  |    否    |                                        |      |
 
-📣 请新入学的同学们自行 Clone 此 repo，然后在相应位置填入自己的姓名（或者仅名字）以及自己的 Github 账户首页链接，完成后进行 push 操作。
+> 📣 请新入学的同学们自行 Clone 此 repo，然后在相应位置填入自己的姓名（或者仅名字）以及自己的 Github 账户首页链接，完成后进行 push 操作。
 
 一旦你完成 push 后，下方的成员图里面就会出现你的账号头像：
 
