@@ -33,6 +33,8 @@
 
 ![join](assets/join-us.png)
 
+加入成功后，请自己 clone 此 repo，然后再 `README.md` 的表格中，添加自己的姓名（或仅名字）以及 Github 账号的链接，完成后进行 push 操作。之后，你的头像就会出现在小组列表之中。
+
 #### 2.被关注
 
 我们的管理者会用 [xauatcs](https://github.com/xauatcs) 关注你的 Github 账户，还能帮你涨一个小粉丝呢！如果有需要还可以帮助你点点项目的 ⭐️ Star 。
