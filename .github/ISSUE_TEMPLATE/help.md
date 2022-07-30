@@ -1,5 +1,5 @@
 ---
-name: "😂 使用帮助"
+name: "😂 使用帮助 [Issue 模板例子，请勿提交]"
 about: 使用上遇到了问题请求帮助
 title: '[Help]'
 labels: ''

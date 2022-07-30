@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41E 提交 Bug"
+name: "\U0001F41E 提交 Bug [Issue 模板例子，请勿提交]"
 about: 提交一个 Bug
 title: 标题请简明扼要，具体内容写在下面
 labels: ''

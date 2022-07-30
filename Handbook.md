@@ -18,10 +18,10 @@
 
 非常欢迎新同学们的加入。新来的小伙伴们需要准备一些账号：
 
-- 一个自己的 Github 账户
-- 一个 XAUAT 的教育邮箱（联系我们开通）
-- 一个小组网盘账号（联系我们开通）
-- 一个 Wiki 知识库账号（可能用 Github 的）
+- 自己的 Github 账户（[点击这里申请加入数据组](https://github.com/buildingdata/Welcome/issues/new/choose)）
+- 一个 XAUAT 的教育邮箱（[点击这里申请开通](https://github.com/buildingdata/SignUp/issues/new/choose)）
+- ~~一个小组网盘账号（暂未开通）~~
+- ~~一个 Wiki 知识库账号（暂未开通）~~
 
 ### 🎉 加入数据组
 
