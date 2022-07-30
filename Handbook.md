@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="assets/handbook.svg" align="center" alt="Logo" />
+ <img width="150px" src="assets/handbook.svg" align="center" alt="Handbook" />
  <h2 align="center">新同学手册</h2>
- <p align="center">关于一些新同学的设置和福利</p>
+ <p align="center">关于一些新同学的一些账户设置和福利</p>
 </p>
 <p align="center">
   <a href="http://buildingdata.xauat.edu.cn/">

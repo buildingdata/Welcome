@@ -71,156 +71,20 @@
 
 #### 3.新同学手册
 
-欢迎新同学，没事的话可以看下《新同学手册》：
+欢迎新同学，没事的话可以看下[《新同学手册》](Handbook.md)：
 
 <a href="Handbook.md">
-  	<img alt="Handbook" src="assets/handbook.svg" />
+  	<img width="300px" alt="Handbook" src="assets/handbook.svg" />
   </a>
 
-里面有一些关注和福利信息等。
+里面有一些步骤信息、申请信息和福利信息等。
 
 ### 📐 开发规则
 
-#### 1.仓库的权限和配额
+在参与开发之前，也一定一定看一下咱们的[《开发手册》](Devbook.md)：
 
-##### 1.1 权限
+<a href="Devbook.md">
+  	<img width="300px" alt="Devbook" src="assets/devbook.svg" />
+  </a>
 
-- **开源：** 一般的普通代码
-- **私库：** 核心代码、专利软件等
-
-##### 1.2 配额
-
-目前配额如下，后续会考虑进行升级：
-
-- 无限的公共/私人回购
-- 无限的合作者
-- 2000 次操作分钟/月 
-- 500MB 包存储空间
-- 社区支持
-
-#### 2.仓库的主分支
-
-由于众所周知的原因，Github 在 2020 年 10 年 1 日宣布，所有的新 repo 主分支更改为 `main` 取代原来的`master` 名称，所以小伙伴们注意检查下自己客户端的 **default branch name** 是否是 `main` 名称。
-
-#### 3.代码提交
-
-代码提交前一定要对代码进行审查，避免冲突过多。提交的 commit 信息，使用简短的中文说明即可。
-
-🔍 详情可参考 Github 文档：
-
-- [审查拉取请求中的建议更改](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
-- [管理团队的代码审查设置](https://docs.github.com/cn/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-code-review-settings)
-
-#### 4.仓库的命名
-
-仓库的名称命名我们采用了 **“小写字母加短横线”** 和 **“大驼峰”** 的命名规则，细则如下：
-
-```
-# 小写字母加短横线，这种方式一般适用于较小的项目代码和脚本
-# 例如：
-- python-netcdf4
-- python-xarray
-
-# 大驼峰命名，这种方式一般适用单个单词、软件和工具开发
-# 例如：
-- Welcome
-- Logo
-- EnergyCalculating
-- PowerToys
-```
-
-#### 5.忽略文件规则
-
-为了减少一些无关文件的推送，建议使用如下的 `.gitignore` 配置文件规则：
-
-```gitignore
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-*/.DS_Store
-.DS_Store
-.LSOverride
-.AppleDouble
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-```
-
-### 6.README 自述文件
-
-#### 6.1 README 拟写规则
-
-建议每个 repo 都要写一份 README 自述文件，可以帮助其余同学理解和使用，避免踩坑和节省时间。
-
-README 自述文件格式就按照论文序号格式按序标注即可（一级标题带 `.`，二三级标题使用一个空格）。由于 Github 对 Markdown 的 `h1` 和 `h2` 标签样式会添加一个分割线，故除了大标题外，建议使用  `h3` ，`h4` 和 `h5` 三个标签，示例如下：
-
-```markdown
-## 大标题
-
-### 1.一级标题
-#### 1.1 二级标题
-##### 1.1.1 三级标题
-#### 1.2 二级标题
-
-### 2.一级标题
-```
-
-#### 6.2 README 资产归类
-
-我们在拟写 README 自述文件的时候，常常会需要图片的引用，有时候引用的图片会比较多，请在此代码仓库的根目录下新建 `assets` 文件夹用于存放图片和其他。例示目录层级如下：
-
-```
-├── assets/
-    ├── logo.svg          // 例示 Logo 文件
-    ├── banner.png        // 例示图片文件
-    ├── img/              // 你还可以细化分类目录
-└── README.md
-```
-
-#### 6.3 README 深色模式（可选）
-
-Github 已经支持深色模式，很多小伙伴们也都很喜欢设置为深色主题。如果你想让自己的 README 好看些，可以准备浅色和深色两套素材，然后使用 Github 提供的标签 #gh-light-mode-only 和 #gh-dark-mode-only，来根据你的当前主题进行素材的切换。例子如下：
-
-```markdown
-![Light](assets/light.png#gh-light-mode-only)
-![Dark](assets/dark.png#gh-dark-mode-only)
-```
-
+可以有效的统一开发开发规范，减少合并冲突等。
