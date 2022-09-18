@@ -35,7 +35,7 @@
 
 #### 2.仓库的主分支
 
-由于众所周知的原因，Github 在 2020 年 10 年 1 日宣布，所有的新 repo 主分支更改为 `main` 取代原来的`master` 名称，所以小伙伴们注意检查下自己客户端的 **default branch name** 是否是 `main` 名称。
+由于众所周知的原因，Github 在 2020 年 10 年 1 日宣布，所有的新 repo 主分支更改为 `main` 取代原来的 `master` 名称，所以小伙伴们注意检查下自己客户端的 **default branch name** 是否是 `main` 名称。
 
 #### 3.代码提交
 
