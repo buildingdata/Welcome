@@ -27,7 +27,7 @@
 
 目前配额如下，后续会考虑进行升级：
 
-- 无限数量的 public/private repos
+- 无限数量的 public/private 仓库
 - 无限数量的合作者
 - 每月 2000 分钟的 Github Actions 运行时间
 - 500MB 包存储空间
@@ -165,6 +165,6 @@ Github 支持自定义 Issue 模板，如果你需要的话，可以自行设定
 
 ### 🔍 遇到问题
 
-- 可以查看团队的 Wiki
-- 可以到团队讨论发起问题
+- 可以查看[团队的 Wiki](https://wiki.nousbuild.com:3443/)
+- 可以到[团队讨论发起问题](https://github.com/orgs/buildingdata/discussions)
 - 遇到 bug 或问题可以到相应的 repo 提交 Issue
