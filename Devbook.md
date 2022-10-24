@@ -69,6 +69,13 @@
 为了减少一些无关文件的推送，建议使用如下的 `.gitignore` 配置文件规则：
 
 ```gitignore
+# =========================
+# Devlopment Files
+# =========================
+/.history
+/.idea
+/.vscode
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
