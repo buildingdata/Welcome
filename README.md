@@ -42,14 +42,15 @@
 
 #### 1.团队成员
 
-| 入学年份 | 是否管理 |              Github 账户               |      |
-| :------: | :------: | :------------------------------------: | :--: |
+| 入学年份 | 是否管理 |              Github 账户               |                                     |
+| :------: | :------: | :------------------------------------: | :---------------------------------: |
 |   永久   |   永久   | [xauatcs](https://github.com/xauatcs)  |                                     |
-|   博士   |    否    | [兵兵](https://github.com/niubingbingcn)  |                                     |
+|   博士   |    是    | [兵兵](https://github.com/niubingbingcn)  |  [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies)  |
 | 2021 级  |    否    | [学锟](https://github.com/ACOLAFISH) |                                     |
-| 2022 级  |    是    | [昊宁<sup>1</sup>](https://github.com/pudding0503)[<sup>,2</sup>](https://github.com/bitcookies) | [丙鹏](https://github.com/lbp21375) |
-| 2023 级  |    否    |                                    |                                     |
-| 2024 级  |    是    | [佳帅](https://github.com/cointem) |                                     |
+| 2022 级  |    否    | [丙鹏](https://github.com/lbp21375) |
+| 2023 级  |    否    | [晨好](https://github.com/WCHHH416) |                                     |
+| 2024 级  |    否    | [佳帅](https://github.com/cointem) |                                     |
+| 2025 级  |    否    | [鑫龙](https://github.com/wangsande)  |  [天庆](https://github.com/acehoeuhnc) |
 
 > 📣 请新入学的同学们自行 Clone 此 repo，然后在相应位置填入自己的姓名（或者仅名字）以及自己的 Github 账户首页链接，完成后进行 push 操作。
 
@@ -69,6 +70,7 @@
 
 |    类别    | 给予权限  |
 | :--------: | :-------: |
+|    **博士**    |  **Owner**   |
 |    **研三**    |  **Owner**   |
 |    **研二**    |  **Owner**   |
 | （准）研一 |  Member  |
